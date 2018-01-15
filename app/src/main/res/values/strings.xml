@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Baby Names</string>
+
+    <!--Menu texts-->
+    <string name="menu_search">Search</string>
+
+    <!--Message texts-->
+    <string name="msg_search_empty">Please enter keyword</string>
+
+    <string-array name="list_type">
+        <item>Both</item>
+        <item>Boy</item>
+        <item>Girl</item>
+    </string-array>
+</resources>
